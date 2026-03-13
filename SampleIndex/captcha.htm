@@ -1,0 +1,10 @@
+<script src="https://cdn.jsdelivr.net/npm/altcha/dist/altcha.min.js" type="module"></script>
+
+<form action="https://localhost:7201/api/Altcha/submit" method="POST">
+    <altcha-widget 
+        challengeurl="https://localhost:7201/api/Altcha/challenge" 
+        name="altcha" maxnumber="3000000" debug>
+    </altcha-widget>
+    
+    <button type="submit">Submit</button>
+</form>
