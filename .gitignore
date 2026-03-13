@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AltchaSampleWebAPI/AltchaSampleWebAPI/bin/Debug/net8.0
+/AltchaSampleWebAPI/.vs/AltchaSampleWebAPI
+/AltchaSampleWebAPI/AltchaSampleWebAPI/obj
+/AltchaSampleWebAPI/AltchaSampleWebAPI/AltchaSampleWebAPI.csproj.user
